@@ -1,3 +1,5 @@
+https://github.com/mariasoriaorg/Kata-SumRangeNumbers/workflows/build/badge.svg
+
 # Sum Range Numbers
 
 Given two integers _a_ and _b_, which can be positive or negative, find the sum of all the numbers in between (including them too) and return it. If the two numbers are equal return _a_ or _b_ .
