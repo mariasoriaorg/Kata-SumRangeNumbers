@@ -1,4 +1,4 @@
-https://github.com/mariasoriaorg/Kata-SumRangeNumbers/workflows/build/badge.svg
+![](https://github.com/mariasoriaorg/Kata-SumRangeNumbers/workflows/build/badge.svg)
 
 # Sum Range Numbers
 

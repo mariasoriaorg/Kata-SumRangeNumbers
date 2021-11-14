@@ -27,4 +27,8 @@ public class SumRangeNumbersTest {
     public void test06 (){
         assertEquals(2, SumRangeNumbers.getSumRangeNumbers(-1,2));
     }
+    @Test
+    public void test07 (){
+        assertEquals(0, SumRangeNumbers.getSumRangeNumbers(-2,2));
+    }
 }
